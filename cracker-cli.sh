@@ -58,7 +58,7 @@ password_generator() {
 while true; do
     clear
     echo "===================="
-    echo "    My Toolkit"
+    echo "    cracker-cli"
     echo "===================="
     echo "1) rdp(windows) cracker"
     echo "2) ssh(linux) cracker"
